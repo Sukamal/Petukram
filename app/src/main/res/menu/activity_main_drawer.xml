@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+
+    </group>
+
+    <item android:title="Cuisines">
+        <menu>
+            <item
+                android:id="@+id/nav_indian"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Indian" />
+
+        </menu>
+    </item>
+
+    <item android:title="Meal">
+        <menu>
+            <item
+                android:id="@+id/nav_breakfast"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Breakfast" />
+            <item
+                android:id="@+id/nav_lunch"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Lunch" />
+            <item
+                android:id="@+id/nav_sancks"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Snacks" />
+            <item
+                android:id="@+id/nav_dinner"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Dinner" />
+
+        </menu>
+    </item>
+
+    <item android:title="Cooking Type">
+        <menu>
+            <item
+                android:id="@+id/nav_oven"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Microwave Oven" />
+
+
+        </menu>
+    </item>
+
+
+</menu>
