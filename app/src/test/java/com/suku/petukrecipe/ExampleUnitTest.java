@@ -1,4 +1,4 @@
-package com.suku.petukram;
+package com.suku.petukrecipe;
 
 import org.junit.Test;
 

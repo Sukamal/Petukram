@@ -1,4 +1,4 @@
-package com.suku.petukram.features.splash;
+package com.suku.petukrecipe.features.splash;
 
 import android.content.Intent;
 import android.os.Message;
@@ -11,8 +11,8 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.suku.petukram.R;
-import com.suku.petukram.features.parent.ParentActivity;
+import com.suku.petukrecipe.R;
+import com.suku.petukrecipe.features.parent.ParentActivity;
 
 import java.util.Timer;
 import java.util.TimerTask;

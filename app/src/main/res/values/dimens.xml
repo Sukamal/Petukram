@@ -12,6 +12,7 @@
     <dimen name="margin_16">16dp</dimen>
     <dimen name="button_height">46dp</dimen>
 
+    <dimen name="card_height">200dp</dimen>
 
 
 </resources>

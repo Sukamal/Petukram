@@ -1,4 +1,4 @@
-package com.suku.petukram.features.parent;
+package com.suku.petukrecipe.features.parent;
 
 /**
  * Created by SukamalD on 24-01-2018.

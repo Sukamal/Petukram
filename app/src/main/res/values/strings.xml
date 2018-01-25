@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PetukRam</string>
+    <string name="app_name">PetukRecipe</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -9,6 +9,15 @@
     <string name="title_activity_splash">SplashActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="admob_app_id">ca-app-pub-7080915292810431~6927246918</string>
+    <string name="banner_footer">ca-app-pub-7080915292810431/6903196185</string>
+
+
+    <string name="test_banner">ca-app-pub-3940256099942544/6300978111</string>
+
+
 
 
 

@@ -1,4 +1,4 @@
-package com.suku.petukram;
+package com.suku.petukrecipe;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

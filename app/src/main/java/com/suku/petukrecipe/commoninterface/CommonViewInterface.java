@@ -1,4 +1,4 @@
-package com.suku.petukram.commoninterface;
+package com.suku.petukrecipe.commoninterface;
 
 /**
  * Created by SukamalD on 24-01-2018.

@@ -1,6 +1,6 @@
-package com.suku.petukram.features.parent;
+package com.suku.petukrecipe.features.parent;
 
-import com.suku.petukram.commoninterface.CommonViewInterface;
+import com.suku.petukrecipe.commoninterface.CommonViewInterface;
 
 /**
  * Created by SukamalD on 24-01-2018.
